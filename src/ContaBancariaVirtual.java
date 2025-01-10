@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+import java.util.Scanner;
 
 public class ContaBancariaVirtual {
     public static void main(String[] args) {
